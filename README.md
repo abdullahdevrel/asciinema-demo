@@ -16,6 +16,10 @@
 
 ![Alt text](./ipinfo_go_slow_20.svg) -->
 
-# Reframed: 0.01
+<!-- # Reframed: 0.01
 
 ![Alt text](./ipinfo_go_slow_01_reframed.svg)
+
+# Reframed short: 0.01 -->
+
+![Alt text](./ipinfo_go_slow_01_reframed_short.svg)
