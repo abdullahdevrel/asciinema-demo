@@ -1,12 +1,12 @@
 # asciinema-demo
 
-# Speed: 0.05
+<!-- # Speed: 0.05
 
 ![Alt text](./ipinfo_go.svg)
 
 # Speed: 0.10
 
-![Alt text](./ipinfo_go_slow.svg)
+![Alt text](./ipinfo_go_slow.svg) -->
 
 # Speed: 0.15
 
