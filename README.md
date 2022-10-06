@@ -10,7 +10,7 @@
 
 # Speed: 0.15
 
-
+![Alt text](./ipinfo_go_slow_15.svg)
 
 # Speed: 0.20
 
